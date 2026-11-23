@@ -34,11 +34,11 @@ Portfolio Project/
 │
 ├── index.html
 ├── css/
-│   └── style.css
+│ └── style.css
 ├── js/
-│   └── script.js
+│ └── script.js
 ├── images/
-│   └── ...
+│ └── ...
 └── README.md
 
 📸 Preview
@@ -47,18 +47,18 @@ Screenshots of the portfolio will be added here.
 
 🌐 Live Demo
 
-https://my-first-portfolio-project.vercel.app/
+https://julius-finkak.vercel.app/
 
 ⚙️ Getting Started
 
 To run this project locally:
 
 1. Clone the repository:
-   
+
    git clone https://github.com/juliusfinkak/my-first-portfolio-project.git
 
 2. Navigate into the project folder:
-   
+
    cd YOUR-REPOSITORY
 
 3. Open "index.html" in your browser, or use the VS Code Live Server extension.

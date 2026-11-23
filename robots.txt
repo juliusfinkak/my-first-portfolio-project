@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://my-first-portfolio-project.vercel.app/sitemap.xml
+Sitemap: https://julius-finkak.vercel.app/sitemap.xml
