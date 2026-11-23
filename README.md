@@ -47,7 +47,7 @@ Screenshots of the portfolio will be added here.
 
 🌐 Live Demo
 
-Coming soon...
+https://my-first-portfolio-project.vercel.app/
 
 ⚙️ Getting Started
 
